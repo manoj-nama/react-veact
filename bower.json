@@ -1,0 +1,20 @@
+{
+  "name": "react-veact",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Manoj Nama <manoj.nama@outlook.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3"
+  }
+}
